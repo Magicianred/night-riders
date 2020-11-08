@@ -1,0 +1,7 @@
+.card:hover img {
+    border: 3px solid #000;
+}
+
+.member-icons {
+    margin-top: 10px;
+}
